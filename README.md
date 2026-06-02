@@ -143,20 +143,6 @@ Current Focus:
 → Building Real-world Projects
 ```
 
----
-
-## 📈 github_stats.py
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saumibulids&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumibulids&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
-
----
 
 ## 🌌 activity.log
 
@@ -164,7 +150,6 @@ Current Focus:
 [✓] Learning Data Science
 [✓] Building AI Projects
 [✓] Exploring Machine Learning
-[✓] Practicing DSA
 [✓] Growing every day
 ```
 
