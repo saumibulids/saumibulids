@@ -1,3 +1,4 @@
+<img width="800" height="450" alt="Create_a_seamless_looping_pixe-ezgif com-optimize" src="https://github.com/user-attachments/assets/64ad6a27-fcdd-43cd-92a5-5ac060a59d0c" />
 ## Hi there 👋
 
 <!--
