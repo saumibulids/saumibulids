@@ -113,7 +113,8 @@ me = Saumya()
 SELECT * FROM projects;
 
 +---------------------------------------------+
-| JurisAI                                     |
+| JurisAI
+  ATLAS
 | Z-Flux                                      |
 | Quizzo                                      |
 | AnnSetu                                     |
